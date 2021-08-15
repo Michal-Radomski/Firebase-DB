@@ -1,3 +1,4 @@
 # Firebase-DB
-Database application built on a Front-End course
+Database application built on the Front-End course.
+
 
