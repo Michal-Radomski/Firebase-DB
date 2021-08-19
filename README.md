@@ -11,6 +11,7 @@ Firestore database application - after creating an account, you can log in and a
 ## Notes/ ToDo List/ Issues
 
 1. Less to CSS compilation takes place in the browser.
+2. Responsiveness is not done yet.
 
 ## ScreenShots
 
